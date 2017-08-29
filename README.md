@@ -3,7 +3,7 @@ Aula03 - Impacta
 
 # Ferramentas de controle de versão:
 * Mercurial
-* GitHub
+* GitLab
 * Subversion
 * CVS
 
